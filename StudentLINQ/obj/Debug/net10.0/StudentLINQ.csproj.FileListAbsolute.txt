@@ -1,0 +1,15 @@
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/bin/Debug/net10.0/students.json
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/bin/Debug/net10.0/StudentLINQ
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/bin/Debug/net10.0/StudentLINQ.deps.json
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/bin/Debug/net10.0/StudentLINQ.runtimeconfig.json
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/bin/Debug/net10.0/StudentLINQ.dll
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/bin/Debug/net10.0/StudentLINQ.pdb
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/StudentLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/StudentLINQ.AssemblyInfoInputs.cache
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/StudentLINQ.AssemblyInfo.cs
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/StudentLINQ.csproj.CoreCompileInputs.cache
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/StudentLINQ.dll
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/refint/StudentLINQ.dll
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/StudentLINQ.pdb
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/StudentLINQ.genruntimeconfig.cache
+/Users/minzikimi/RiderProjects/StudentLINQ/StudentLINQ/obj/Debug/net10.0/ref/StudentLINQ.dll
